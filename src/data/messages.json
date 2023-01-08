@@ -1,0 +1,57 @@
+[
+	{
+		"author": {
+			"id": "Leticia35@gmail.com",
+			"nombre": "Jacobo",
+			"apellido": "León",
+			"edad": "1963-10-30T23:34:00.820Z",
+			"alias": "Florencia",
+			"avatar": "https://loremflickr.com/1234/2345/abstract"
+		},
+		"text": "ad laborum magnam omnis fugiat voluptates accusamus rerum dolorum totam"
+	},
+	{
+		"author": {
+			"id": "Ariadna15@hotmail.com",
+			"nombre": "Alfonso",
+			"apellido": "Robles",
+			"edad": "1961-06-21T12:17:34.843Z",
+			"alias": "Alejandra",
+			"avatar": "https://loremflickr.com/1234/2345/abstract"
+		},
+		"text": "ex odit atque libero maiores quis dignissimos hic officia cupiditate"
+	},
+	{
+		"author": {
+			"id": "Toms.Corts50@hotmail.com",
+			"nombre": "Alfonso",
+			"apellido": "Alonzo",
+			"edad": "1985-08-13T00:07:18.730Z",
+			"alias": "Francisca",
+			"avatar": "https://loremflickr.com/1234/2345/abstract"
+		},
+		"text": "vero exercitationem ipsa pariatur nulla quibusdam repudiandae autem expedita ullam"
+	},
+	{
+		"author": {
+			"id": "Adn72@yahoo.com",
+			"nombre": "Andrea",
+			"apellido": "Vergara",
+			"edad": "1999-04-26T03:39:38.909Z",
+			"alias": "Gabriela",
+			"avatar": "https://loremflickr.com/1234/2345/abstract"
+		},
+		"text": "dolores fugiat reprehenderit eaque necessitatibus eaque molestias blanditiis quis nihil"
+	},
+	{
+		"author": {
+			"id": "Joaqun_Ceja@yahoo.com",
+			"nombre": "Homero",
+			"apellido": "Rivera",
+			"edad": "1986-08-17T06:03:42.430Z",
+			"alias": "Marco Antonio",
+			"avatar": "https://loremflickr.com/1234/2345/abstract"
+		},
+		"text": "animi impedit ratione ducimus reprehenderit vitae ad earum facilis libero"
+	}
+]
